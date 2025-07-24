@@ -4,5 +4,5 @@ This is code on how to apply the [PySCENIC](https://www.nature.com/articles/s415
 
 This was created by Jakob Mäeots during his internship at the Hjerling-Leffler lab at Karolinska Institutet over a period of 10 weeks
 
-In the notebooks folder are all the original notebooks that I created to learn coding and computational analysis.
+In the notebooks folder are all the original notebooks that I created to learn coding and computational analysis, very primitive.
 In the scripts folder are the finalised scripts that are ready to use for SCENIC analysis
